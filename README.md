@@ -1,11 +1,11 @@
 # LuckySheet
 LuckySheet
 
-##Cloned from:
+## Cloned from:
 - [LuckySheet](https://github.com/dream-num/Luckysheet)
 - [LuckyExcel](https://github.com/dream-num/Luckyexcel)
 
-##Purpose:
+## Purpose:
 - Add export
 - Fix bug cannot save, load oneCellAnchor image
 - Fix bug export wrong column widths in multiple sheets
