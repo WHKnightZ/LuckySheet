@@ -8,5 +8,5 @@ LuckySheet
 ## Purpose:
 - Add export
 - Fix bug cannot save, load oneCellAnchor image
-- Fix bug export wrong column widths in multiple sheets
+- Fix bug export wrong column width in multiple sheets
 - Fix bug cannot load Vietnamese characters
